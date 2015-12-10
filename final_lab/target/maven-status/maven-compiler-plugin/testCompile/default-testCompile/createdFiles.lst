@@ -1,0 +1,9 @@
+com\ulacit\devappweb\service\impl\StudentManagerImplTest.class
+com\ulacit\devappweb\webapp\action\PasswordHintActionTest.class
+com\ulacit\devappweb\webapp\filter\MockFilterChain.class
+com\ulacit\devappweb\webapp\action\BaseActionTestCase.class
+com\ulacit\devappweb\webapp\filter\LocaleFilterTest.class
+com\ulacit\devappweb\webapp\action\UserActionTest.class
+com\ulacit\devappweb\webapp\listener\StartupListenerTest.class
+com\ulacit\devappweb\dao\StudentDaoTest.class
+com\ulacit\devappweb\webapp\action\SignupActionTest.class

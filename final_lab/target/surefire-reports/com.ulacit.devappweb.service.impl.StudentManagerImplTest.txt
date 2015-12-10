@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ulacit.devappweb.service.impl.StudentManagerImplTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.913 sec - in com.ulacit.devappweb.service.impl.StudentManagerImplTest
